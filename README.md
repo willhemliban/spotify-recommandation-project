@@ -1,3 +1,5 @@
+Projet réalisé par Aaron Amani et Willhem Liban
+
 Dans le cadre du module Technique d’Apprentissage Artificiel, nous devions réaliser unprojet d’apprentissage automatique. Pour ce faire nous avons décidé de réaliser unsystème de recommandation.
 
 Problématique
